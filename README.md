@@ -1,2 +1,2 @@
 # learning-git
-this is the repo to learn git-github
+this is the repo to learn git-github.
